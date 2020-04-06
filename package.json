@@ -1,0 +1,12 @@
+{
+  "name": "remotefloatsmyboat.com",
+  "version": "1.0.0",
+  "dependencies": {
+    "js-yaml": "^3.13.1"
+  },
+  "scripts": {
+    "build": "node src/build.js"
+  },
+  "author": "Phil Sturgeon",
+  "license": "DBAD"
+}
