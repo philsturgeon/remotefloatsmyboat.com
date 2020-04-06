@@ -96,8 +96,8 @@
 <main>
 <h1>Remote Floats My Boat!</h1>
 <p class="intro">
-  Ever asked an employer about remote work only to get a confused look, or a shitty email back, like
-  you'd asked for something awful, weird, or ridiculous? 
+  Ever asked an employer about remote work only to get a confused look, or a shitty reply, like
+  you'd demanded payment in untraceable bonds and a fabergé egg?
 </p>
 
 <section id="reasons">
