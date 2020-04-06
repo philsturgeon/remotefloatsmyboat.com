@@ -77,12 +77,11 @@
   source_name: philsturgeon
   source_link: "https://twitter.com/philsturgeon"
 
-- icon: "👨‍👩‍👧‍👦"
-  reason:
-    "Zero commute means more time with your family"
-  link: "https://twitter.com/jacksonj04/status/1247269466037239808"
-  source_name: jacksonj04
-  source_link: "https://twitter.com/jacksonj04"
+- icon: "🚵‍♂️"
+  reason: "more time to spend cycling and exploring the area you live in!"
+  link: "https://twitter.com/matthewtrask/status/1247271523016151041"
+  source_name: matthewtrask
+  source_link: "https://twitter.com/matthewtrask"
 
 - icon: "🌍"
   reason: Average commute is 3 tonnes CO2 per person per year.
