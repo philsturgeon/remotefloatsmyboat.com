@@ -59,6 +59,13 @@
   source_name: danny_herrmann
   source_link: "https://twitter.com/danny_herrmann"
 
+- icon: "👨‍👩‍👧‍👦"
+  reason:
+    "Zero commute means more time with your family"
+  link: "https://twitter.com/jacksonj04/status/1247269466037239808"
+  source_name: jacksonj04
+  source_link: https://twitter.com/jacksonj04/status/1247269466037239808
+
 - icon: "🌍"
   reason: Average commute is 3 tonnes CO2 per person per year.
   link: "https://phil.tech/2020/02/22/remote-working-climate/"
@@ -67,14 +74,14 @@
 
 - icon: "🚉"
   reason:
-    "Unrushed vacations. If you can take a train and a ferry whilst working you can shave a few more tonnes of your footprint."
+    "Unrushed vacations. If you can take a train and a ferry whilst working you can shave a few more tonnes of your footprint"
   link: "https://phil.tech/2020/02/22/remote-working-climate/"
   source_name: philsturgeon
-  source_link:  https://twitter.com/philsturgeon
+  source_link: https://twitter.com/philsturgeon
 
 - icon: "🌍"
   reason:
-    "Work from someone elses home - HomeExchange.com for cheap vacations."
+    "Work from someone elses home - HomeExchange.com for cheap vacations"
   link: "https://phil.tech/2020/02/22/remote-working-climate/"
   source_name: philsturgeon
   source_link: https://twitter.com/philsturgeon
