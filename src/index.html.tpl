@@ -4,12 +4,11 @@
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Remote Floats My Boat!</title>
-<meta name="description" content="It's not possible to list every reason people want to work remotely, but here's a bunch.">
+<meta name="description" content="Lots of folks love working remote for lots of different reasons. Here are a bunch.">
 <link href="https://fonts.googleapis.com/css?family=Bangers|Sarabun&display=swap" rel="stylesheet">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🚽</text></svg>">
 <style type="text/css">
     body {
-
         font-family: Sarabun, sans-serif;
         padding: 2rem 1rem 1rem;
     }
@@ -47,7 +46,7 @@
         text-decoration: none;
     }
 
-    p {
+    p, ul {
         max-width: 800px;
         margin-left: auto;
         margin-right: auto;
@@ -90,41 +89,42 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta property="og:url" content="https://remotefloatsmyboat.com">
 <meta property="og:title" content="Remote Floats My Boat!">
-<meta property="og:description" content="Remote work can save you time, money, mental strife, and lower your carbon footprint if you do it right.">
+<meta property="og:description" content="Folks love working remotely, to remove commuting, save money, improve mental state, and lower carbon footprints.">
 <meta property="og:image" content="https://remotefloatsmyboat.com/social.jpg">
 </head>
 <body>
 <main>
 <h1>Remote Floats My Boat!</h1>
-<p class="intro">A lot of people have been thrust into health pandemic working from home, but there's a lot of reasons to love working remote once this is all done.</p>
-<section id="what-is-a-bidet">
-<h2>What types of remote work are there?</h2>
-<p>Remote work doesn't have to mean work from home. It can, but it can also mean working from a friends house, working from a co-working space, working from vacation rentals in far away lands, and working from a train on your way to a vacation without rushing in icecap melting flights, or flexworking - splitting time between the office and any of these other approaches.</p>
-<p>Generally speaking, working remote is about having asynchronous teams, who don't all need to "stand up", "sync up", or "deep dive" with each other constantly.</p>
-</section>
+<p class="intro">So many folks love being able to work remote, and not just in a global pandemic. One day we'll be on the other side of this, and maybe you'd like to consider remote work. Either way, here's what people love about it.</p>
 <section id="reasons">
-  
-  <p>Remote working is not a simple panacea of amazingness, but there are enough benefits that many teams are making the move. To help inspire you, here's a crowd-sourced list.</p>
 
   {REASON-LIST}
+
+</section>
+
+<section id="jobs">
+  <h2>Want a remote job?</h2>
 
   <ul>
     <li><a href="https://justremote.co/">JustRemote</a></li>
     <li><a href="https://remote.co/remote-jobs/">Remote.co</a></li>
     <li><a href="https://remoteok.io/remote-jobs/">RemoteOK</a></li>
     <li><a href="https://remotive.io/">Remotive</a></li>
-    <li><a href="https://skillcrush.com/blog/sites-finding-remote-work/">Loads more sites</a></li>
+    <li><a href="https://weworkremotely.com/">We Work Remotely</a></li>
+    <li>... <a href="https://skillcrush.com/blog/sites-finding-remote-work/">bunch of other sites</a></li>
   </ul>
 </section>
 
 <section id="climate">
+  <h2>Want a remote climate job?</h2>
   <p>If you spotted those climate related items, check out <a href="https://phil.tech/2020/02/22/remote-working-climate/">Remote Work as Climate Action</a> for more information.</p>
 
   <p>Want a remote climate action job? Check out <a href="https://protect.earth/jobs/">some of these job sites</a>!</p>
 </section>
 
 <section id="contribute">
-  <p>Feel free to <a href="https://github.com/philsturgeon/remotefloatsmyboat.com">contribute on GitHub</a>.</p>
+  <h2>Share your reasons!</h2>
+  <p>Does remote working float your boat? Share why <a href="https://github.com/philsturgeon/remotefloatsmyboat.com">on GitHub</a>.</p>
 </section>
 </main>
 </body>

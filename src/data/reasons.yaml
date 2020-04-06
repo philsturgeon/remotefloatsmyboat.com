@@ -1,112 +1,134 @@
 
 - icon: "🤮"
   reason: "avoid sick people"
-  twitter: chris_herd
   link: "https://twitter.com/chris_herd/status/1217413669484548096"
+  source_name: chris_herd
+  source_link: "https://twitter.com/chris_herd"
 
 - icon: "💄"
   reason: "less time/money on makeup"
-  twitter: chris_herd
   link: "https://twitter.com/chris_herd/status/1217413669484548096"
+  source_name: chris_herd
+  source_link: "https://twitter.com/chris_herd"
 
 - icon: "💊"
   reason: "Flexibility for appointments"
-  twitter: chris_herd
   link: "https://twitter.com/chris_herd/status/1217413669484548096"
+  source_name: chris_herd
+  source_link: "https://twitter.com/chris_herd"
 
 - icon: "🍻"
   reason: "no after-work expectations"
-  twitter: chris_herd
   link: "https://twitter.com/chris_herd/status/1217413669484548096"
+  source_name: chris_herd
+  source_link: "https://twitter.com/chris_herd"
 
 - icon: "📢"
   reason: "feel heard by colleagues"
-  twitter: chris_herd
   link: "https://twitter.com/chris_herd/status/1217413669484548096"
+  source_name: chris_herd
+  source_link: "https://twitter.com/chris_herd"
 
 - icon: "🍔"
   reason: "Save money on lunches"
-  twitter: chris_herd
   link: "https://twitter.com/chris_herd/status/1217413669484548096"
+  source_name: chris_herd
+  source_link: "https://twitter.com/chris_herd"
 
 - icon: "👔"
   reason: "no expensive uniforms"
-  twitter: chris_herd
   link: "https://twitter.com/chris_herd/status/1217413669484548096"
+  source_name: chris_herd
+  source_link: "https://twitter.com/chris_herd"
 
 - icon: "🚸"
   reason: "get kids from school"
-  twitter: chris_herd
   link: "https://twitter.com/chris_herd/status/1217413669484548096"
+  source_name: chris_herd
+  source_link: "https://twitter.com/chris_herd"
 
 - icon: "🚗"
   reason: "only need one car"
-  twitter: chris_herd
   link: "https://twitter.com/chris_herd/status/1217413669484548096"
+  source_name: chris_herd
+  source_link: "https://twitter.com/chris_herd"
 
 - icon: "🚗"
   reason: "Cars last a LOT longer which saves $$$"
-  twitter: danny_herrmann
   link: "https://twitter.com/danny_herrmann/status/1217570809927077893"
+  source_name: danny_herrmann
+  source_link: "https://twitter.com/danny_herrmann"
 
 - icon: "🌍"
   reason: Average commute is 3 tonnes CO2 per person per year.
-  twitter: philsturgeon
   link: "https://phil.tech/2020/02/22/remote-working-climate/"
+  source_name: philsturgeon
+  source_link: "https://twitter.com/philsturgeon"
 
 - icon: "🚉"
   reason:
     "Unrushed vacations. If you can take a train and a ferry whilst working you can shave a few more tonnes of your footprint."
-  twitter: philsturgeon
   link: "https://phil.tech/2020/02/22/remote-working-climate/"
+  source_name: philsturgeon
+  source_link:  https://twitter.com/philsturgeon
 
 - icon: "🌍"
   reason:
-    "Work from someone elses home - Home exchange for cheap vacations."
-  twitter: philsturgeon
+    "Work from someone elses home - HomeExchange.com for cheap vacations."
   link: "https://phil.tech/2020/02/22/remote-working-climate/"
+  source_name: philsturgeon
+  source_link: https://twitter.com/philsturgeon
 
 - icon: "🗣"
   reason: "No gossip."
-  twitter: danny_herrmann
   link: "https://twitter.com/danny_herrmann/status/1217570809927077893"
+  source_name: danny_herrmann
+  source_link: https://twitter.com/danny_herrmann
 
 - icon: "🍪"
   reason: "No cookie drives."
-  twitter: danny_herrmann
   link: "https://twitter.com/danny_herrmann/status/1217570809927077893"
+  source_name: danny_herrmann
+  source_link: https://twitter.com/danny_herrmann
 
 - icon: "🙉"
   reason: "Lots of peace and quiet"
-  twitter: danny_herrmann
   link: "https://twitter.com/danny_herrmann/status/1217570809927077893"
+  source_name: danny_herrmann
+  source_link: https://twitter.com/danny_herrmann
 
 - icon: "🎧"
   reason: "Music when you like."
-  twitter: danny_herrmann
   link: "https://twitter.com/danny_herrmann/status/1217570809927077893"
--
-  icon: "🧙‍♂️"
+  source_name: danny_herrmann
+  source_link: https://twitter.com/danny_herrmann
+
+- icon: "🧙‍♂️"
   reason: "Heating/cooling is not controlled by a reclusive wizard."
-  twitter: philsturgeon
+  source_name: philsturgeon
+  source_link: https://twitter.com/philsturgeon
 
 - icon: "🥶"
   reason: "Don't have to worry about icy roads."
-  twitter: danny_herrmann
   link: "https://twitter.com/danny_herrmann/status/1217570809927077893"
+  source_name: danny_herrmann
+  source_link: https://twitter.com/danny_herrmann
 
 - icon: "🧗🏻‍♀️"
   reason: "more time for gym/climbing/biking as my work break"
-  twitter: lisasy
   link: "https://twitter.com/lisasy/status/1217609773765419008"
+  source_name: lisasy
+  source_link: https://twitter.com/lisasy
 
 - icon: "🥗"
   reason: "healthier home-cooked meals"
-  twitter: lisasy
   link: "https://twitter.com/lisasy/status/1217609773765419008"
+  source_name: lisasy
+  source_link: https://twitter.com/lisasy
 
 - icon: "😀"
   reason:
     "preserve over exhausting social energy so that whenever I show up in social situations I'm 100% present and energized"
-  twitter: lisasy
   link: "https://twitter.com/lisasy/status/1217609773765419008"
+  source_name: lisasy
+  source_link: "https://twitter.com/lisasy"
