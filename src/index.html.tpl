@@ -95,8 +95,24 @@
 <body>
 <main>
 <h1>Remote Floats My Boat!</h1>
-<p class="intro">So many folks love being able to work remote, and not just in a global pandemic. One day we'll be on the other side of this, and maybe you'd like to consider remote work. Either way, here's what people love about it.</p>
+<p class="intro">
+  Ever asked an employer about remote work only to get a confused look, or a shitty email back, like
+  you'd asked for something awful, weird, or ridiculous? 
+</p>
+
 <section id="reasons">
+  <p>
+    <a href="https://www.merchantsavvy.co.uk/remote-working-statistics/">All
+    sorts of statistics</a> show it's a bloody good idea (if managed correctly -
+    like most things), but here's a bunch of reasons which don't show up on any
+    graphs. 
+  </p>
+
+  <p>
+    <em>A chunk of the world has rushed into working remotely due to COVID-19,
+    but mostly this is consider it temporary. If you'd like to be armed with
+    some reasons to help it stick around, try these.</em>
+  </p>
 
   {REASON-LIST}
 
