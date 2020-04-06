@@ -1,12 +1,18 @@
 
-- icon: "🤮"
-  reason: "avoid sick people"
+- icon: "👖"
+  reason: "it's more comfortable to work in gym shorts than jeans"
+  link: "https://twitter.com/matthewtrask/status/1247269597121740801"
+  source_name: matthewtrask
+  source_link: "https://twitter.com/matthewtrask"
+
+- icon: "💄"
+  reason: "less time/money on makeup"
   link: "https://twitter.com/chris_herd/status/1217413669484548096"
   source_name: chris_herd
   source_link: "https://twitter.com/chris_herd"
 
-- icon: "💄"
-  reason: "less time/money on makeup"
+- icon: "🤮"
+  reason: "avoid sick people"
   link: "https://twitter.com/chris_herd/status/1217413669484548096"
   source_name: chris_herd
   source_link: "https://twitter.com/chris_herd"
