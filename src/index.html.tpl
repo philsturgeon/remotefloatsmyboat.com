@@ -90,7 +90,7 @@
 <meta property="og:url" content="https://remotefloatsmyboat.com">
 <meta property="og:title" content="Remote Floats My Boat!">
 <meta property="og:description" content="Folks love working remotely, to remove commuting, save money, improve mental state, and lower carbon footprints.">
-<meta property="og:image" content="https://remotefloatsmyboat.com/social.jpg">
+<meta property="og:image" content="/social.jpg">
 </head>
 <body>
 <main>
