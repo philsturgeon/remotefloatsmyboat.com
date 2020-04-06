@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Remote Floats My Boat!</title>
 <meta name="description" content="Lots of folks love working remote for lots of different reasons. Here are a bunch.">
-<link href="https://fonts.googleapis.com/css?family=Bangers|Sarabun&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Londrina+Solid|Sarabun&display=swap" rel="stylesheet">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>💻</text></svg>">
 <style type="text/css">
     body {
@@ -27,7 +27,7 @@
 
     h1, h2, h3 {
         margin: 0;
-        font-family: Bangers, sans-serif;
+        font-family: 'Londrina Solid', cursive;
         color: #222;
         transition: all 0.4s;
     }
