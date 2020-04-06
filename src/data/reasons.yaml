@@ -66,11 +66,23 @@
   source_link: "https://twitter.com/danny_herrmann"
 
 - icon: "👨‍👩‍👧‍👦"
+  reason: "Zero commute means more time with your family"
+  link: "https://twitter.com/jacksonj04/status/1247269466037239808"
+  source_name: jacksonj04
+  source_link: "https://twitter.com/jacksonj04"
+
+- icon: "🚵‍♂️"
+  reason: "Replaced my repetitive bike-commute with bike-touring around Europe"
+  link: "https://offset.earth/articles/climate-emergency/climate-change-by-bike"
+  source_name: philsturgeon
+  source_link: "https://twitter.com/philsturgeon"
+
+- icon: "👨‍👩‍👧‍👦"
   reason:
     "Zero commute means more time with your family"
   link: "https://twitter.com/jacksonj04/status/1247269466037239808"
   source_name: jacksonj04
-  source_link: https://twitter.com/jacksonj04/status/1247269466037239808
+  source_link: "https://twitter.com/jacksonj04"
 
 - icon: "🌍"
   reason: Average commute is 3 tonnes CO2 per person per year.
