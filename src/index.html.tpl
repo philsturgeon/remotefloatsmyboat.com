@@ -6,7 +6,7 @@
 <title>Remote Floats My Boat!</title>
 <meta name="description" content="Lots of folks love working remote for lots of different reasons. Here are a bunch.">
 <link href="https://fonts.googleapis.com/css?family=Bangers|Sarabun&display=swap" rel="stylesheet">
-<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🚽</text></svg>">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>💻</text></svg>">
 <style type="text/css">
     body {
         font-family: Sarabun, sans-serif;
@@ -90,7 +90,7 @@
 <meta property="og:url" content="https://remotefloatsmyboat.com">
 <meta property="og:title" content="Remote Floats My Boat!">
 <meta property="og:description" content="Folks love working remotely, to remove commuting, save money, improve mental state, and lower carbon footprints.">
-<meta property="og:image" content="/social.jpg">
+<meta property="og:image" content="https://remotefloatsmyboat.com/social.jpg">
 </head>
 <body>
 <main>
