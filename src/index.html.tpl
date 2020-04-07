@@ -133,9 +133,19 @@
 
 <section id="climate">
   <h2>Want a remote climate job?</h2>
-  <p>If you spotted those climate related items, check out <a href="https://phil.tech/2020/02/22/remote-working-climate/">Remote Work as Climate Action</a> for more information.</p>
+  <p>
+    Remote work can <a
+    href="https://phil.tech/2020/02/22/remote-working-climate/">massively
+    facilitate changes to your carbon footprint</a>, but if you want to get one step further and work for a company solving climate issues, check these sites out.
+  </p>
 
-  <p>Want a remote climate action job? Check out <a href="https://protect.earth/jobs/">some of these job sites</a>!</p>
+  <ul>
+    <li><a href="https://techjobsforgood.com/?q=&impact_areas=Environment&remote_jobs=on">Tech Jobs for Good</a></li>
+    <li><a href="https://greenjobs.com/jobs/?q=remote&l=&r=200">GreenJobs.com</a></li>
+    <li><a href="https://greenjobs.greenjobsearch.org/?s=remote">GreenJobsSearch.org</a></li>
+    <li><a href="https://jobs.reconsidered.co/jobs/?country=Remote">ReconsideredJobs.co</a></li>
+    <li>... <a href="https://protect.earth/jobs/">bunch of other sites</a></li>
+  </ul>
 </section>
 
 <section id="contribute">
