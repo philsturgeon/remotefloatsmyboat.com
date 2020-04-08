@@ -18,7 +18,7 @@ reasonsList = reasonsData.map(reason => `
       ? `<a href="${reason.source_link}">${reason.source_name}</a>`
       : reason.source_name
     }
-    ${reason.link && `<em><a href="${reason.link}">(over here)</a></em>`}&nbsp;
+    ${reason.link ? `<em><a href="${reason.link}">(over here)</a></em>` : ''}
     </small>
   </p>
 </li>
