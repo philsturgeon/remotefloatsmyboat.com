@@ -140,11 +140,11 @@
   </p>
 
   <ul>
-    <li><a href="https://techjobsforgood.com/?q=&impact_areas=Environment&remote_jobs=on">Tech Jobs for Good</a></li>
+    <li><a href="https://www.remoteclimatejobs.com/">Remote Climage Jobs</a></li>
+    <li><a href="https://climatebase.org/jobs">ClimateBase</a></li>    
     <li><a href="https://greenjobs.com/jobs/?q=remote&l=&r=200">GreenJobs.com</a></li>
     <li><a href="https://greenjobs.greenjobsearch.org/?s=remote">GreenJobsSearch.org</a></li>
-    <li><a href="https://jobs.reconsidered.co/jobs/?country=Remote">ReconsideredJobs.co</a></li>
-    <li>... <a href="https://protect.earth/jobs/">bunch of other sites</a></li>
+    <li><a href="https://techjobsforgood.com/?q=&impact_areas=Environment&remote_jobs=on">Tech Jobs for Good</a></li>
   </ul>
 </section>
 
